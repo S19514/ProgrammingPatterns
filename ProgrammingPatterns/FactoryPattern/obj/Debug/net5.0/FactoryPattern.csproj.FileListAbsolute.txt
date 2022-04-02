@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/FactoryPattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/FactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/ref/FactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/bin/Debug/net5.0/FactoryPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/ref/FactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/FactoryPattern/obj/Debug/net5.0/FactoryPattern.genruntimeconfig.cache

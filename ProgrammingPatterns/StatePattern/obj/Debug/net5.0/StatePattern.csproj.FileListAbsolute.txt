@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/StatePattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/StatePattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/StatePattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/StatePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/ref/StatePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/bin/Debug/net5.0/StatePattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/ref/StatePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/StatePattern/obj/Debug/net5.0/StatePattern.genruntimeconfig.cache

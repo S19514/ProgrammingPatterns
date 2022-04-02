@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/ref/PrototypePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/ref/PrototypePattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.genruntimeconfig.cache

@@ -6,7 +6,15 @@ namespace MediatorPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Mediator!");
+
+            Button submitButton = new Button();
+            Checkbox clientType = new Checkbox();
+
+            new RegisterClientView(clientType, submitButton);
+            
+            submitButton.Click();
+            clientType.Select();
         }
     }
 }

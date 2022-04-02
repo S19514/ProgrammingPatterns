@@ -8,7 +8,7 @@ namespace BuilderPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Builder!");
-
+            /*Representing Director*/
             var builder = new InvoiceBuilder();
             Invoice invoice = builder.SetDate(new DateTime(2020,1,1))
                 .SetInvoiceNumber("A1")

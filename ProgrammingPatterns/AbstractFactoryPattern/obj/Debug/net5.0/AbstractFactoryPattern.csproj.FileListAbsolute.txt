@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/ref/AbstractFactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/ref/AbstractFactoryPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.genruntimeconfig.cache

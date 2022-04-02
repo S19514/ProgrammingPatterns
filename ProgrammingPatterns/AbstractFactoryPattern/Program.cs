@@ -8,7 +8,8 @@ namespace AbstractFactoryPattern
         {
             Console.WriteLine("Hello Abstract Factory!");
 
-            
+            var uiApplication = new Application(new MacosFactory());
+            uiApplication.RenderUi();
         }
     }
 }

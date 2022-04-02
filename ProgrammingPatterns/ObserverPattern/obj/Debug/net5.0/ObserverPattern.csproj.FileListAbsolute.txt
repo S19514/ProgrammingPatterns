@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ObserverPattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ObserverPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ref/ObserverPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/bin/Debug/net5.0/ObserverPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ref/ObserverPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ObserverPattern/obj/Debug/net5.0/ObserverPattern.genruntimeconfig.cache

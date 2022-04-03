@@ -1,0 +1,15 @@
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ChainOfResponsibilityPattern.deps.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ChainOfResponsibilityPattern.runtimeconfig.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ChainOfResponsibilityPattern.runtimeconfig.dev.json
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ChainOfResponsibilityPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ref/ChainOfResponsibilityPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/bin/Debug/net5.0/ChainOfResponsibilityPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.csproj.AssemblyReference.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.AssemblyInfo.cs
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ref/ChainOfResponsibilityPattern.dll
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.pdb
+/Users/pioter/Documents/GitHub/ProgrammingPatterns/ProgrammingPatterns/ChainOfResponsibilityPattern/obj/Debug/net5.0/ChainOfResponsibilityPattern.genruntimeconfig.cache

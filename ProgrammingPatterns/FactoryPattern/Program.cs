@@ -6,7 +6,7 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Factory!");
+            Console.WriteLine("Hello Factory");
             
             var shapeFactory = new ShapeFactory();
             var circle = shapeFactory.CreateShape(ShapeType.Circle);

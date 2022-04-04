@@ -6,7 +6,7 @@ namespace FactoryPattern
     {
         public override void Render()
         {
-            Console.WriteLine("Render Circle");
+            Console.WriteLine("Render circle");
         }
     }
 }

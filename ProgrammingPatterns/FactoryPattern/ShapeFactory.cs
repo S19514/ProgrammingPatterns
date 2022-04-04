@@ -14,7 +14,7 @@ namespace FactoryPattern
                 case ShapeType.Triangle:
                     return new Triangle();
                 default:
-                    throw new Exception($"Shape type {shapetype} is not handled");
+                    throw new Exception($"Shape type: {shapetype} is not handled");
             }
         }
     }

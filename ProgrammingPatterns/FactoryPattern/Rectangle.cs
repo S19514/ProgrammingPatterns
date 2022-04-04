@@ -5,7 +5,7 @@ namespace FactoryPattern
     {
         public override void Render()
         {
-            Console.WriteLine("Render rectangle");
+            Console.WriteLine("Render Rectangle");
         }
     }
 }
